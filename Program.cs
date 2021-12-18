@@ -1,6 +1,7 @@
-﻿using async_practice;
+﻿using async_practice.task_examples;
 
- // Test examples
-basic.Main();
+// Test examples
+//Basic.Main();
+AsyncMethods.Main();
 
 Console.ReadKey();
