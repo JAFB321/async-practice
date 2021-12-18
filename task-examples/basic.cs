@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace async_practice
+namespace async_practice.task_examples
 {
-    internal class basic
+    internal class Basic
     {
         public async static void Main()
         {
